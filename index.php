@@ -1,4 +1,6 @@
 <?php
+
+//This is a new change from news
 session_start();
 include("./includes/doLogin.php");
 ?>
